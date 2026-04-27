@@ -74,7 +74,7 @@ All signatures increase in amplitude with Galactocentric distance, consistent wi
 
 ### Angular Power Spectra at 50–100 kpc
 
-![Angular Power Spectra](cls_5075100-comparacion.png)
+![Angular Power Spectra](cls_5075100-comparacion-emi.png)
 
 *Top left: overdensity power spectrum (original extension). Top right: ⟨vR⟩. Bottom left: ⟨vθ⟩. Bottom right: ⟨vφ⟩. All computed for the MW+LMC simulation at multiple Galactocentric distances.*
 
