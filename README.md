@@ -2,6 +2,16 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/margiofabiolad/lmc-dm-stars-spherical-harmonics/blob/main/spherical_harmonics_analysis.ipynb) `spherical_harmonics_analysis.ipynb`
 
+## Data Science Skills Demonstrated
+- Processing N-body simulation data with **1M+ particles** using Python
+- Coordinate system transformations (Cartesian → spherical) for high-dimensional data
+- Signal decomposition using spherical harmonic expansion (analogous to Fourier analysis)
+- Comparative analysis between two datasets to isolate a specific signal
+- Spatial data visualization with HEALPix pixelization and Mollweide projections
+- Independent reproduction of published scientific results (Cunningham et al. 2020): 
+  radial and polar velocity signatures recovered accurately; azimuthal component 
+  shows minor discrepancies, consistent with expected numerical differences in simulation setup
+
 Spherical harmonic analysis of the MW stellar halo response to the LMC's infall, using N-Body simulations
 
 # Kinematic Analysis of the Milky Way Stellar Halo: LMC-Induced Dark Matter Wake
