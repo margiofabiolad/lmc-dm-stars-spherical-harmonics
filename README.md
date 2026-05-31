@@ -1,4 +1,7 @@
 # lmc-dm-stars-spherical-harmonics
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/margiofabiolad/lmc-dm-stars-spherical-harmonics/blob/main/spherical_harmonics_analysis.ipynb) `spherical_harmonics_analysis.ipynb`
+
 Spherical harmonic analysis of the MW stellar halo response to the LMC's infall, using N-Body simulations
 
 # Kinematic Analysis of the Milky Way Stellar Halo: LMC-Induced Dark Matter Wake
